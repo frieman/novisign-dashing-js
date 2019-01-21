@@ -1,5 +1,5 @@
 {
-  "name": "dashing-js",
+  "name": "novisign-dashing-js",
   "description": "Port of Dashing to node.js",
   "author": "Fabio Caseri <fabio.caseri@gmail.com> (http://www.fabiocaseri.com)",
   "version": "0.1.5",
@@ -34,7 +34,7 @@
     "dashboard",
     "web"
   ],
-  "repository": "git://github.com/fabiocaseri/dashing-js",
+  "repository": "git://github.com/frieman/novisign-dashing-js",
   "main": "index",
   "bin": {
     "dashing-js": "./bin/dashing-js"
